@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Interesting Projects.**
 
-- 👨‍💻 All of my projects are available at [Github and Bitbucket](Github and Bitbucket)
+- 👨‍💻 All of my projects are available at [Github and Bitbucket]
 
 - 📫 How to reach me **avhadharshal2000@gmail.com**
 
