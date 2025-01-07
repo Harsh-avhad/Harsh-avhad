@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-avhad&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-avhad" /> </p>
 
-- 🔭 I’m currently working in **Cognizant**
+- 🔭 I’m currently working in **Cognizant Technology Solution**
 
-- 🌱 I’m currently learning **ReactJs, AWS and Spring-Boot**
+- 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 👯 I’m looking to collaborate on **Interesting Projects.**
+- 👯 I’m looking job opportunity for position **Java Full Stack Developer role**
 
 - 👨‍💻 All of my projects are available at [Github and Bitbucket]
 
